@@ -245,4 +245,4 @@ Issues and PRs welcome!
 
 ---
 
-*Author: KingMaker | Built from real-world lobster fleet experience*
+*Author: KING | Built from real-world lobster fleet experience*

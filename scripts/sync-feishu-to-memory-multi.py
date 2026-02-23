@@ -10,7 +10,7 @@ Usage:
   2. Run manually: python3 sync-feishu-to-memory-multi.py
   3. Or set up as cron job: 30 */6 * * * /usr/bin/python3 $HOME/sync-feishu-to-memory-multi.py
 
-Author: KingMaker
+Author: KING
 License: MIT
 """
 

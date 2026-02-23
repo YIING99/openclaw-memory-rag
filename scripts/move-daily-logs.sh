@@ -9,7 +9,7 @@
 # Cron (daily at 6am):
 #   0 6 * * * $HOME/move-daily-logs.sh
 #
-# Author: KingMaker
+# Author: KING
 # License: MIT
 
 MEMORY_DIR=$HOME/.openclaw/workspace/memory

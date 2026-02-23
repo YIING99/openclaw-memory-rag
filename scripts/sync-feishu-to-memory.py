@@ -13,7 +13,7 @@ Usage:
 Cron example (every 6 hours):
   (crontab -l 2>/dev/null; echo '30 */6 * * * /usr/bin/python3 $HOME/sync-feishu-to-memory.py >> /tmp/feishu-sync.log 2>&1') | crontab -
 
-Author: KingMaker
+Author: KING
 License: MIT
 """
 
