@@ -1,0 +1,26 @@
+{
+  "agents": {
+    "defaults": {
+      "memorySearch": {
+        "provider": "openai",
+        "model": "embedding-3",
+        "remote": {
+          "baseUrl": "https://open.bigmodel.cn/api/paas/v4/",
+          "apiKey": "YOUR_ZAI_API_KEY_HERE"
+        },
+        "query": {
+          "hybrid": {
+            "enabled": true,
+            "vectorWeight": 0.7,
+            "textWeight": 0.3,
+            "candidateMultiplier": 4
+          }
+        },
+        "cache": {
+          "enabled": true,
+          "maxEntries": 10000
+        }
+      }
+    }
+  }
+}
